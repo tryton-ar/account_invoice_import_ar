@@ -1,0 +1,71 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:account.configuration,import_invoice_exempt_operations:"
+msgid "Import Invoice Exempt Operations"
+msgstr "Operaciones exentas"
+
+msgctxt "field:account.configuration,import_invoice_not_taxed_net:"
+msgid "Import Invoice Not Taxed Net"
+msgstr "Neto No Gravado"
+
+msgctxt "field:account.configuration,import_invoice_taxed_net:"
+msgid "Import Invoice Taxed Net"
+msgstr "Neto Gravado"
+
+msgctxt "field:account.invoice.import.start,company:"
+msgid "Company"
+msgstr "Empresa"
+
+msgctxt "field:account.invoice.import.start,file_:"
+msgid "File"
+msgstr "Archivo"
+
+msgctxt "field:party.party,import_invoice_account_expense:"
+msgid "Import Invoice Account Expense"
+msgstr "Cuenta de gastos por defecto"
+
+msgctxt "field:party.party,import_invoice_tax:"
+msgid "Import Invoice Tax"
+msgstr "Impuesto por defecto"
+
+msgctxt "field:party.party.account,import_invoice_account_expense:"
+msgid "Import Invoice Account Expense"
+msgstr "Importar Factura - Cuenta de gastos"
+
+msgctxt "model:account.invoice.import.start,name:"
+msgid "Invoice In Import Start"
+msgstr "Importar facturas - Inicio"
+
+msgctxt "model:ir.action,name:wizard_invoice_in_import"
+msgid "Import Supplier Invoices"
+msgstr "Importar facturas de proveedor"
+
+msgctxt "model:ir.message,text:msg_import_missing_account_expense"
+msgid ""
+"You must configure a default account expense to proceed with invoice "
+"\"%(invoice)s\"."
+msgstr ""
+"Debe configurar una cuenta de gastos por defecto para continuar con "
+"la factura \"%(invoice)s\"."
+
+msgctxt "model:ir.ui.menu,name:menu_invoice_in_import"
+msgid "Import Supplier Invoices"
+msgstr "Importar facturas de proveedor"
+
+msgctxt "view:account.configuration:"
+msgid "Invoice Import"
+msgstr "Importación de facturas de proveedor"
+
+msgctxt "view:party.party:"
+msgid "Invoice Import"
+msgstr "Importación de facturas de proveedor"
+
+msgctxt "wizard_button:account.invoice.import,start,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "wizard_button:account.invoice.import,start,import_:"
+msgid "Import"
+msgstr "Importar"

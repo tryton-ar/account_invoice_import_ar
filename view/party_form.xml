@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+    <xpath expr="/form/notebook/page[@id='empresa']/field[@name='secondary_activity_code']" position="after">
+        <separator string="Invoice Import" colspan="4" id="invoice_import"/>
+        <label name="import_invoice_account_expense"/>
+        <field name="import_invoice_account_expense"/>
+        <label name="import_invoice_tax"/>
+        <field name="import_invoice_tax"/>
+    </xpath>
+</data>

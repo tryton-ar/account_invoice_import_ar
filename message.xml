@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- This file is part of Tryton.  The COPYRIGHT file at the top level of
+this repository contains the full copyright notices and license terms. -->
+<tryton>
+    <data grouped="1">
+        <record model="ir.message" id="msg_import_missing_account_expense">
+            <field name="text">You must configure a default account expense to proceed with invoice "%(invoice)s".</field>
+        </record>
+    </data>
+</tryton>

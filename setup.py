@@ -57,10 +57,10 @@ download_url = 'https://github.com/tryton-ar/account_invoice_import_ar/tree/%s' 
 
 LINKS = {
     'trytonar_party_ar': ('git+https://github.com/tryton-ar/'
-        'party_ar.git@%s#egg=trytonar-party_ar-%s' %
+        'party_ar.git@%s#egg=trytonar-party-ar-%s' %
         (branch, series)),
     'trytonar_account_invoice_ar': ('git+https://github.com/tryton-ar/'
-        'account_invoice_ar.git@%s#egg=trytonar-account-invoice_ar-%s' %
+        'account_invoice_ar.git@%s#egg=trytonar-account-invoice-ar-%s' %
         (branch, series)),
     }
 
